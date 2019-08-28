@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>https://emakefun.com/</loc>
+     <lastmod>2019-08-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://emakefun.com/micro_bit/micro_bit/</loc>
+     <lastmod>2019-08-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://emakefun.com/arduino/arduino/</loc>
+     <lastmod>2019-08-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://emakefun.com/open_source_hardware/open_source_hardware/</loc>
+     <lastmod>2019-08-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://emakefun.com/magicblock/magicblock/</loc>
+     <lastmod>2019-08-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
