@@ -12,3 +12,9 @@ nav:
     - MagicBlock: magicblock/magicblock.md
 theme:
     name: 'readthedocs'
+  palette:
+    primary: 'Blue Grey'
+    accent: 'Pink'
+extra:
+  search:
+    language: 'jp'
